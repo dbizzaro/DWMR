@@ -1,0 +1,11 @@
+/.conda
+/__pycache__
+/checkpoints
+/data
+/old
+/wandb
+/build
+/dist
+/*.egg-info
+/puzzlegen
+/.DS_Store
